@@ -1,7 +1,0 @@
-#summary Summary of strategies available in JSudokuSolver
-
-= Strategies =
-
-NakedSingle
-HiddenSingle
-NakedPair
