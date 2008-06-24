@@ -1,0 +1,8 @@
+#summary List of strategies that can be used to solve a Sudoku puzzle
+
+||Name||Implementation||Reference||
+||Hidden Single||com.google.code.jsudokusolver.strategy.HiddenSingle||[http://www.sudopedia.org/wiki/Hidden_Single]||
+||Hidden Pair||com.google.code.jsudokusolver.strategy.HiddenPair||[http://www.sudopedia.org/wiki/Hidden_Pair]||
+||Hidden Triple||||||
+||Naked Single||com.google.code.jsudokusolver.strategy.NakedSingle||[http://www.sudopedia.org/wiki/Naked_Single]||
+||Naked Pair||com.google.code.jsudokusolver.strategy.NakedPair||[http://www.sudopedia.org/wiki/Naked_Pair]||
