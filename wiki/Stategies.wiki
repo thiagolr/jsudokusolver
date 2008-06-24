@@ -1,8 +1,8 @@
 #summary List of strategies that can be used to solve a Sudoku puzzle
 
 ||Name||Implementation||Reference||
-||Hidden Single||[/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/HiddenSingle.java com.google.code.jsudokusolver.strategy.HiddenSingle]||[http://www.sudopedia.org/wiki/Hidden_Single]||
-||Hidden Pair||[/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/HiddenPair.java com.google.code.jsudokusolver.strategy.HiddenPair]||[http://www.sudopedia.org/wiki/Hidden_Pair]||
+||Hidden Single||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/HiddenSingle.java com.google.code.jsudokusolver.strategy.HiddenSingle]||[http://www.sudopedia.org/wiki/Hidden_Single]||
+||Hidden Pair||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/HiddenPair.java com.google.code.jsudokusolver.strategy.HiddenPair]||[http://www.sudopedia.org/wiki/Hidden_Pair]||
 ||Hidden Triple||||||
-||Naked Single||[/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/NakedSingle.java com.google.code.jsudokusolver.strategy.NakedSingle]||[http://www.sudopedia.org/wiki/Naked_Single]||
-||Naked Pair||[/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/NakedPair.java com.google.code.jsudokusolver.strategy.NakedPair]||[http://www.sudopedia.org/wiki/Naked_Pair]||
+||Naked Single||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/NakedSingle.java com.google.code.jsudokusolver.strategy.NakedSingle]||[http://www.sudopedia.org/wiki/Naked_Single]||
+||Naked Pair||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/NakedPair.java com.google.code.jsudokusolver.strategy.NakedPair]||[http://www.sudopedia.org/wiki/Naked_Pair]||
