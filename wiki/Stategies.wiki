@@ -9,7 +9,7 @@
 ||Naked Pair||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/NakedPair.java com.google.code.jsudokusolver.strategy.NakedPair]||[http://www.sudopedia.org/wiki/Naked_Pair]||
 ||Naked Triple||Not Yet Implemented||[http://www.sudopedia.org/wiki/Naked_Triple]||
 ||Naked Quad||Not Yet Implemented||[http://www.sudopedia.org/wiki/Naked_Quad]||
-||X Wing||Not Yet Implemented||[http://www.sudopedia.org/wiki/X-Wing]||
+||X-Wing||Not Yet Implemented||[http://www.sudopedia.org/wiki/X-Wing]||
 ||Swordfish||Not Yet Implemented||[http://www.sudopedia.org/wiki/Swordfish]||
 ||Jellyfish||Not Yet Implemented||[http://www.sudopedia.org/wiki/Jellyfish]||
 ||Squirmbag||Not Yet Implemented||[http://www.sudopedia.org/wiki/Squirmbag]||
