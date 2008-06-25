@@ -3,7 +3,7 @@
 
 ||Name||Implementation||Since||
 ||[http://www.sudopedia.org/wiki/Hidden_Single Hidden Single]||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/HiddenSingle.java com.google.code.jsudokusolver.strategy.HiddenSingle]||r4||
-||[http://www.sudopedia.org/wiki/Hidden_Pair Hidden Pair]||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/HiddenPair.java com.google.code.jsudokusolver.strategy.HiddenPair]||r8||
+||[http://www.sudopedia.org/wiki/Hidden_Pair Hidden Pair]||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/HiddenPair.java com.google.code.jsudokusolver.strategy.HiddenPair]||r6||
 ||[http://www.sudopedia.org/wiki/Naked_Single Naked Single]||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/NakedSingle.java com.google.code.jsudokusolver.strategy.NakedSingle]||r4||
 ||[http://www.sudopedia.org/wiki/Naked_Pair Naked Pair]||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/NakedPair.java com.google.code.jsudokusolver.strategy.NakedPair]||r4||
 ||[http://www.sudopedia.org/wiki/Naked_Triple Naked Triple]||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/NakedTriple.java com.google.code.jsudokusolver.strategy.NakedTriple]||r28||
