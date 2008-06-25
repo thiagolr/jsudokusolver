@@ -1,4 +1,5 @@
 #summary List of strategies that can be used to solve a Sudoku puzzle
+#labels Featured
 
 ||Name||Implementation||Since||
 ||[http://www.sudopedia.org/wiki/Hidden_Single Hidden Single]||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/HiddenSingle.java com.google.code.jsudokusolver.strategy.HiddenSingle]||r4||
