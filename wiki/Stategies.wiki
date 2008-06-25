@@ -2,12 +2,12 @@
 
 ||Name||Implementation||Reference||
 ||[http://www.sudopedia.org/wiki/Hidden_Single Hidden Single]||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/HiddenSingle.java com.google.code.jsudokusolver.strategy.HiddenSingle]||
-||Hidden Pair||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/HiddenPair.java com.google.code.jsudokusolver.strategy.HiddenPair]||[http://www.sudopedia.org/wiki/Hidden_Pair]||
+||[http://www.sudopedia.org/wiki/Hidden_Pair Hidden Pair]||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/HiddenPair.java com.google.code.jsudokusolver.strategy.HiddenPair]||||
 ||Hidden Triple||Not Yet Implemented||[http://www.sudopedia.org/wiki/Hidden_Triple]||
 ||Hidden Quad||Not Yet Implemented||[http://www.sudopedia.org/wiki/Hidden_Quad]||
 ||Naked Single||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/NakedSingle.java com.google.code.jsudokusolver.strategy.NakedSingle]||[http://www.sudopedia.org/wiki/Naked_Single]||
-||Naked Pair||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/NakedPair.java com.google.code.jsudokusolver.strategy.NakedPair]||[http://www.sudopedia.org/wiki/Naked_Pair]||
-||Naked Triple||Not Yet Implemented||[http://www.sudopedia.org/wiki/Naked_Triple]||
+||[http://www.sudopedia.org/wiki/Naked_Pair Naked Pair]||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/NakedPair.java com.google.code.jsudokusolver.strategy.NakedPair]||||
+||[http://www.sudopedia.org/wiki/Naked_Triple Naked Triple]||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/NakedTriple.java com.google.code.jsudokusolver.strategy.NakedTriple]||||
 ||Naked Quad||Not Yet Implemented||[http://www.sudopedia.org/wiki/Naked_Quad]||
 ||X-Wing||Not Yet Implemented||[http://www.sudopedia.org/wiki/X-Wing]||
 ||Swordfish||Not Yet Implemented||[http://www.sudopedia.org/wiki/Swordfish]||
