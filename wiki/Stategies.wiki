@@ -1,6 +1,8 @@
 #summary List of strategies that can be used to solve a Sudoku puzzle
 #labels Featured
 
+Our goal is to provide a Java implementation of each [http://www.sudopedia.org/wiki/Solving_technique solving technique] described on the Sudopedia wiki.  The following table shows the currently implemented techniques, with a link to the appropriate wiki page, implementation source, and change log.
+
 ||Name||Implementation||Since||
 ||[http://www.sudopedia.org/wiki/Hidden_Single Hidden Single]||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/HiddenSingle.java com.google.code.jsudokusolver.strategy.HiddenSingle]||r4||
 ||[http://www.sudopedia.org/wiki/Hidden_Pair Hidden Pair]||[http://code.google.com/p/jsudokusolver/source/browse/trunk/src/com/google/code/jsudokusolver/strategy/HiddenPair.java com.google.code.jsudokusolver.strategy.HiddenPair]||r6||
