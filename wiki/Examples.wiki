@@ -1,5 +1,11 @@
 #summary Example Sudoku Puzzles
 
+All of the following examples can be run using the following command:
+
+{{{
+java -jar jsudokusolver.jar <puzzle>
+}}}
+
 = Naked Single =
 
 {{{
