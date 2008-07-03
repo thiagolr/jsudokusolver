@@ -1,0 +1,17 @@
+#summary Press Release
+
+JSudokuSolver is a open source platform-independent strategy-based Sudoku solver written for Java 5.
+
+The application, which is under active development, is licensed under the GNU General Public License (version 3).  New releases are made on almost a daily basis, and an archive of releases can be found on our download page:
+
+http://code.google.com/p/jsudokusolver/downloads/list
+
+Contributions to the project are welcome, and details for checking out or browsing the source code can be found on our source page:
+
+http://code.google.com/p/jsudokusolver/source/checkout
+
+To find out more, including usage examples and installation instructions, please visit our Google Code page at:
+
+http://code.google.com/p/jsudokusolver/
+
+Cheers!
